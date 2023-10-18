@@ -1,0 +1,1 @@
+package com.itssvkv.darkpix.models.responsesdata class AccessToken(    val access_token: String,    val created_at: Int,    val scope: String,    val token_type: String)

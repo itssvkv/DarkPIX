@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DarkPIX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">splash</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="dots">- - - - -</string>
+    <string name="hd_wallpaper">HD wallpaper</string>
+    <string name="first_dis">Discover the best menus from over 100 cuisines and over 1000 restaurants.</string>
+    <string name="photos">1000+ Photos</string>
+    <string name="second_dis"><![CDATA[Fast & free delivery to your home or office. We will deliver it, wherever you are!]]></string>
+    <string name="third_bold_tv">Upload Your Own</string>
+    <string name="third_dis">Don’t feel like going out? No problem, we’ll deliver your order. In bed! :)</string>
+    <string name="note">Note: Our authentication is done via a browser because the api does not provide it.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="line">________</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="back">Back</string>
+    <string name="search">Search...</string>
+    <string name="trending_tags">Trending tags</string>
+    <string name="category">Category</string>
+</resources>

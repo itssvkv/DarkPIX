@@ -1,0 +1,1 @@
+package com.itssvkv.darkpix.models.errormodeldata class ErrorType(    val error: String,    val error_description: String)

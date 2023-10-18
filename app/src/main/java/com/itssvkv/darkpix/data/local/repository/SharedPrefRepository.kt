@@ -1,0 +1,1 @@
+package com.itssvkv.darkpix.data.local.repositoryimport android.content.Contextinterface SharedPrefRepository {    fun saveToPref(context: Context, key: String, value: Any)    fun getFromPref(context: Context, key: String, defValue: Any): Any}

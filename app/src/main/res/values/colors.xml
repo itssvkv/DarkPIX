@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dots">#707070</color>
+    <color name="selectedNavBottom">#FFC300</color>
+    <color name="recPopularBgEndColor">#CCB100</color>
+    <color name="recPopularBgStartColor">#4300FF</color>
+    <color name="recNaturalBgStartColor">#B3FF0000</color>
+    <color name="recNaturalBgEndColor">#B30036CC</color>
+    <color name="recFashionBgEndColor">#B3CC0096</color>
+    <color name="searchViewBgColor">#1FFFFFFF</color>
+    <color name="invisibleBackground">#00FFFFFF</color>
+    <color name="secondaryAppColor">#546EE5</color>
+    <color name="textSecondaryColor">#838C9F</color>
+
+</resources>

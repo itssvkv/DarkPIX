@@ -1,0 +1,1 @@
+package com.itssvkv.darkpix.models.errormodeldata class ErrorModel(    val errors: List<String>)

@@ -1,0 +1,1 @@
+package com.itssvkv.darkpix.models.adaptersdatadata class TrendingData(    var searchText: String)
