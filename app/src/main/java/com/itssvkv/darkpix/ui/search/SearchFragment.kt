@@ -196,6 +196,7 @@ class SearchFragment : Fragment() {
                         })
                     }
                 }
+                clickOnPhoto()
             },
             duration = 1000,
             loading = null,

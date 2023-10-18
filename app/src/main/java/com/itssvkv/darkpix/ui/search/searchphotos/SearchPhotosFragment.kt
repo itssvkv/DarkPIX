@@ -106,15 +106,9 @@ class SearchPhotosFragment : Fragment() {
 
     private fun initBackClick() {
         binding?.searchPhotosBackTv?.setOnClickListener {
-            activity?.onBackPressedDispatcher?.addCallback(
-                requireActivity(),
-                object : OnBackPressedCallback(true) {
-                    override fun handleOnBackPressed() {
-
-                    }
-                })
-
+            activity?.onBackPressed()
         }
+
     }
 
 }

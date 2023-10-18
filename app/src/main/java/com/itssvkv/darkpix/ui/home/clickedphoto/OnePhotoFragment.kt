@@ -93,8 +93,9 @@ class OnePhotoFragment : Fragment() {
 
     private fun initClicks() {
         binding?.onePhotoBackTv?.setOnClickListener {
-            this@OnePhotoFragment.findNavController()
-                .navigate(R.id.onePhotoFragmentToBtmNavFragment)
+            activity?.onBackPressed()
+//            this@OnePhotoFragment.findNavController()
+//                .navigate(R.id.onePhotoFragmentToBtmNavFragment)
         }
 
         binding?.onePhotoShareIv?.setOnClickListener {
